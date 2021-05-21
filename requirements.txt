@@ -85,7 +85,7 @@ service-identity==17.0.0
 six==1.11.0
 SQLAlchemy==1.1.0b3
 tensorboard==1.10.0
-tensorflow==1.10.1
+tensorflow==2.5.0
 termcolor==1.1.0
 Theano==1.0.3
 Twisted==17.9.0
